@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "firebase": "^10.4.0",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vuetify": "^3.3.21"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.4.0",
