@@ -50,7 +50,7 @@ const addToFavorite = async (songId: string) => {
   <main>
     <h1 class="mb-5 text-center">MUSIC 24</h1>
     <SongsPlayer :songs="playingSongs" @add-to-favorite="addToFavorite"/>
-    <SongsList :songs="songs"/>
+    <SongsList :songs="songs" />
   </main>
 </template>
 
